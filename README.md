@@ -35,7 +35,7 @@ Syntax highlighted code block
 ![Image](https://github.com/zuiQianNian/zuiQianNian.io/blob/master/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B5%E9%9D%A2.png)
 ![Image](https://github.com/zuiQianNian/zuiQianNian.io/blob/master/%E5%9C%B0%E5%9D%80%E9%80%89%E6%8B%A9%E9%A1%B5%E9%9D%A2.png)
 ![Image](https://github.com/zuiQianNian/zuiQianNian.io/blob/master/%E6%90%9C%E7%B4%A2%E9%A1%B5%E9%9D%A2.png)
-![Image](https://github.com/zuiQianNian/zuiQianNian.io/blob/master/%E6%90%9C%E7%B4%A2%E9%A1%B5%E9%9D%A2.png)
+![Image](https://github.com/zuiQianNian/zuiQianNian.io/blob/master/%E7%BB%93%E7%AE%97%E9%A1%B5%E9%9D%A2.png)
 ![Image](https://github.com/zuiQianNian/zuiQianNian.io/blob/master/%E6%90%9C%E7%B4%A2%E9%A1%B5%E9%9D%A2.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
