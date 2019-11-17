@@ -26,6 +26,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ![Image](https://github.com/zuiQianNian/zuiQianNian.io/blob/master/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png)
+![Image](https://github.com/zuiQianNian/zuiQianNian.io/blob/master/%E9%A6%96%E9%A1%B5.png)
+![Image](https://github.com/zuiQianNian/zuiQianNian.io/blob/master/%E9%A6%96%E9%A1%B5.png)
+![Image](https://github.com/zuiQianNian/zuiQianNian.io/blob/master/%E9%A6%96%E9%A1%B5.png)
+![Image](https://github.com/zuiQianNian/zuiQianNian.io/blob/master/%E9%A6%96%E9%A1%B5.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
